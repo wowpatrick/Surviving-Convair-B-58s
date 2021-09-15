@@ -9,9 +9,9 @@ YB-58       |55-665        |                  |Edwards AFB         |CA          
 YB-58       |55-666        |                  |[Castle Air Museum][2] | Atwater, CA | [Link][8] | [CastleAirMuseum (Twitter)][15]
 YB-58/TB-58	|55-668		     |                  |Little Rock AFB	   |Jacksonville, AR|	[Link][9]	| [The Rock hustles for newly dedicated B-58  > Little Rock Air Force Base > Article Display][16]
 B-58	      |59-2437		   |Firefly II        |Lackland AFB	       |San Antonio, TX	| [Link][10] | -																					
-B-58	      |59-2458     	 |Cowtown Hustler   |[USAF Museum][4]	   |Dayton, OH	    | [Link][12] | [Convair B-58A Hustler > National Museum of the US Air Force™ > Display][18]
+B-58	      |59-2458     	 |Cowtown Hustler   |[National Museum of the US Air Force][4]	   |Dayton, OH	    | [Link][12] | [Convair B-58A Hustler > National Museum of the US Air Force™ > Display][18]
 B-58	      |61-2059	     |Greased Lightning	|[SAC Museum][3]	   |Ashland, NE	    | [Link][11] | [B-58A “Hustler” – Strategic Air Command & Aerospace Museum][17]
-B-58	      |61-2080		   |                  |[Pima  Air & Space][5]|Tucson, AZ	  | [Link][13] | [Pima Air & Space Museum][19]
+B-58	      |61-2080		   |                  |[Pima Air & Space Museum][5]|Tucson, AZ	  | [Link][13] | [Pima Air & Space Museum][19]
 
 [1]: http://www.grissomairmuseum.com/
 [2]: https://www.castleairmuseum.org/
