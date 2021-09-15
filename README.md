@@ -20,7 +20,7 @@ B-58	      |61-2080		   |                  |[Pima  Air & Space][5]|Tucson, AZ	  
 [5]: http://www.pimaair.org/
 
 [6]: https://goo.gl/maps/4pNdmBvYVNBPf69x8
-[7]: https://www.google.com/maps/place/34%C2%B048'58.2%22N+117%C2%B051'49.4%22W/@34.8142117,-117.8656114,1221m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d34.816163!4d-117.863709?hl=en
+[7]: https://goo.gl/maps/ozS6hvQcgr6e9HPW9
 [8]: https://goo.gl/maps/o467LjLv6Yf65KG58
 [9]: https://goo.gl/maps/ww3nJFmAUZNc6ezS9
 [10]: https://goo.gl/maps/zvdfehrgSxd5rofG7
