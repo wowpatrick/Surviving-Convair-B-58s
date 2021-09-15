@@ -1,5 +1,7 @@
 # List of surviving Convair B-58s
 
+List of all remaining examples of the [Convair B-58 Hustler](https://en.wikipedia.org/wiki/Convair_B-58_Hustler). The B-58 first flew in 1956 and was the first operational strategic bomber capable of Mach 2 flight. 116 B-58s were built and today only 8 remain.
+
 Type        | Registration | A/C Name         | Location           | City and state | Google Maps link  | Pictures
 ----------- | ------------ | ---------------- | ------------------ | -------------- | ----------------- | ---------
 YB-58/TF-58 |55-663        |                  |[Grissom Air Museum](http://www.grissomairmuseum.com/)  |Peru, IN        | [Link](https://www.google.de/maps/place/Grissom+Air+Museum/@40.669509,-86.1324677,998m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x5e2dcb8906f7f2ee!8m2!3d40.6695067!4d-86.1302805) | [TB-58A HUSTLER \| Grissom Air Museum](http://www.grissomairmuseum.com/gallery/bombers/plane-5)
